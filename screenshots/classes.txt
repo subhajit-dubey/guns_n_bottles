@@ -1,0 +1,4 @@
+hit
+dont hit
+gun
+splattered
